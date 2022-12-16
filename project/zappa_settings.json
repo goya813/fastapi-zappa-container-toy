@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "app_function": "main.handler",
+        "aws_region": "ap-northeast-1",
+        "project_name": "fastapi-zappa-c",
+        "runtime": "python3.9"
+    }
+}
